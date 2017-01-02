@@ -21,7 +21,7 @@ OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
 ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
 OTHER DEALINGS IN THE SOFTWARE.
 
-For more information, please refer to <http://unlicense.org>
+For more information, please refer to <http://www.repulse.com>
 
 NOTE: THIS LICENSE APPLIES TO THE SOURCE CODE FILES THAT MAKE UP THE SHOOTER GAME ONLY.  
 Art assets and Ren'Py are subject to their respective licenses.
