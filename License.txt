@@ -23,6 +23,6 @@ OTHER DEALINGS IN THE SOFTWARE.
 
 For more information, please refer to <http://unlicense.org>
 
-NOTE:  THIS LICENSE APPLIES TO THE SOURCE CODE FILES THAT MAKE UP THE SHOOTER GAME ONLY.  
+NOTE: THIS LICENSE APPLIES TO THE SOURCE CODE FILES THAT MAKE UP THE SHOOTER GAME ONLY.  
 Art assets and Ren'Py are subject to their respective licenses.
 
