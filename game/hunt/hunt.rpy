@@ -37,7 +37,7 @@ label hunting:
             call hunting
     
     with vpunch
-    "You Missed. "
+    "You Missed."
     $ shots_fired = shots_fired + 1
     if shots_fired >= 3:
                 return
