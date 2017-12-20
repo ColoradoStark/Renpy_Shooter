@@ -29,6 +29,6 @@ label start:
         "and they lived happily ever after"
     
 
-    "game over"
+    "Game Over"
 
     return
