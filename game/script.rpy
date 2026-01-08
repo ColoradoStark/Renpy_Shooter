@@ -10,9 +10,9 @@ label start:
     scene bg beached
     show Eileen
 
-    e "Hey, can you go try and shoot some people for me."
-    
-    m "Sure I will be right back."
+    e "Hey, can you go try and shoot some people for me?"
+    "She looks at me with pleading eyes...."
+    m "Sure I will be right back!"
     
     call begin_hunt
     
